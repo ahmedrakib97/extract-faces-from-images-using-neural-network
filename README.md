@@ -10,8 +10,8 @@ This would make extracting faces very easy and could be used for further analysi
 
 ### Extract faces
 
-<img src="examples/image.jpg" width="150px" height="280px">
-<img src="examples/face.jpg" width="150px" height="280px">
+<img src="examples/image.jpg" width="220px" height="260px">
+<img src="examples/face.jpg" width="220px" height="280px">
 
 ## Setup
 
