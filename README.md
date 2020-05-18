@@ -7,6 +7,12 @@ This project uses OpenCV's Face Detecttion Neural Network to detect faces in ima
 * Extract faces from a set of images using **face_extractor.py** and store them in the folder **faces**
 This would make extracting faces very easy and could be used for further analysis.
 
+
+### Extract faces
+
+<img src="examples/image.jpg" width="150px" height="280px">
+<img src="examples/face.jpg" width="150px" height="280px">
+
 ## Setup
 
 ### Python Virtual Environment
